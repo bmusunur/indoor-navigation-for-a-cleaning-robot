@@ -1,4 +1,5 @@
 # indoor-navigation-for-a-cleaning-robot
+<<<<<<< HEAD
 
 Implement a SLAM system for a cleaning robot to navigate and map a typical household with obstacles and furniture.
 
@@ -152,3 +153,6 @@ colcon build --packages-select cleaning_robot_gazebo
 - [ ] `robot_localization` EKF fusing wheel odometry + IMU
 - [ ] Nav2 point-to-point navigation
 - [ ] Coverage (cleaning-path) planning over the free space of the map
+=======
+Implement a SLAM system for a cleaning robot to navigate and  map a typical household with obstacles and furniture 
+>>>>>>> f1353a2da6125295953db91954ed441712ebaa22
